@@ -1,0 +1,970 @@
+,Date,Country,Day
+0,2021-01-01,Aland Islands,New Year's Day
+1,2021-03-30,Aland Islands,Demilitarization Day
+2,2021-04-02,Aland Islands,Good Friday
+3,2021-04-04,Aland Islands,Easter Sunday
+4,2021-04-05,Aland Islands,Easter Monday
+5,2021-04-30,Aland Islands,Walpurgis Night
+6,2021-05-01,Aland Islands,May Day
+7,2021-05-13,Aland Islands,Ascension Day
+8,2021-05-23,Aland Islands,Pentecost
+9,2021-05-24,Aland Islands,Whit Monday
+10,2021-06-01,Aland Islands,Epiphany
+11,2021-06-09,Aland Islands,Autonomy Day
+12,2021-06-18,Aland Islands,Midsummer Eve
+13,2021-06-19,Aland Islands,Midsummer Day
+14,2021-11-06,Aland Islands,All Saints Day
+15,2021-12-06,Aland Islands,Independence Day
+16,2021-12-24,Aland Islands,Christmas Eve
+17,2021-12-25,Aland Islands,Christmas Day
+18,2021-12-26,Aland Islands,St. Stephen's Day
+19,2021-01-01,Albania,New Year's Day
+20,2021-01-02,Albania,New Year's Day
+21,2021-03-14,Albania,Summer Day
+22,2021-03-22,Albania,Nowruz
+23,2021-05-01,Albania,May Day
+24,2021-05-02,Albania,Easter Sunday
+25,2021-05-03,Albania,Easter Monday
+26,2021-10-19,Albania,Mother Teresa Day
+27,2021-11-28,Albania,Independence Day
+28,2021-11-29,Albania,Liberation Day
+29,2021-12-08,Albania,Youth Day
+30,2021-12-25,Albania,Christmas Day
+31,2021-01-01,Andorra,New Year's Day
+32,2021-03-14,Andorra,Constitution Day
+33,2021-03-14,Andorra,National Holiday
+34,2021-12-25,Andorra,Christmas Day
+35,2021-01-01,Argentina,New Year's Day
+36,2021-02-15,Argentina,Carnival
+37,2021-02-16,Argentina,Carnival
+38,2021-03-24,Argentina,Day of Remembrance for Truth and Justice
+39,2021-04-02,Argentina,Day of the Veterans and Fallen of the Malvinas War
+40,2021-04-02,Argentina,Good Friday
+41,2021-05-01,Argentina,Labour Day
+42,2021-05-25,Argentina,May Revolution
+43,2021-06-17,Argentina,Anniversary of the Passing of General Martín Miguel de Güemes
+44,2021-06-20,Argentina,General Manuel Belgrano Memorial Day
+45,2021-07-09,Argentina,Independence Day
+46,2021-08-16,Argentina,General José de San Martín Memorial Day
+47,2021-10-11,Argentina,Day of Respect for Cultural Diversity
+48,2021-11-20,Argentina,National Sovereignty Day
+49,2021-12-08,Argentina,Immaculate Conception Day
+50,2021-12-25,Argentina,Christmas Day
+51,2021-01-01,Australia,New Year's Day
+52,2021-01-26,Australia,Australia Day
+53,2021-03-01,Australia,Labour Day
+54,2021-03-08,Australia,Canberra Day
+55,2021-03-08,Australia,March Public Holiday
+56,2021-03-08,Australia,Eight Hours Day
+57,2021-03-08,Australia,Labour Day
+58,2021-04-02,Australia,Good Friday
+59,2021-04-03,Australia,Holy Saturday
+60,2021-04-04,Australia,Easter Sunday
+61,2021-04-05,Australia,Easter Monday
+62,2021-04-25,Australia,Anzac Day
+63,2021-05-03,Australia,May Day
+64,2021-05-03,Australia,Labour Day
+65,2021-05-31,Australia,Reconciliation Day
+66,2021-06-07,Australia,Western Australia Day
+67,2021-06-14,Australia,Queen's Birthday
+68,2021-08-02,Australia,Picnic Day
+69,2021-10-04,Australia,Labour Day
+70,2021-12-25,Australia,Christmas Day
+71,2021-12-27,Australia,St. Stephen's Day
+72,2021-01-01,Austria,New Year's Day
+73,2021-01-06,Austria,Epiphany
+74,2021-04-05,Austria,Easter Monday
+75,2021-05-01,Austria,National Holiday
+76,2021-05-13,Austria,Ascension Day
+77,2021-05-24,Austria,Whit Monday
+78,2021-06-03,Austria,Corpus Christi
+79,2021-08-15,Austria,Assumption Day
+80,2021-10-26,Austria,National Holiday
+81,2021-11-01,Austria,All Saints' Day
+82,2021-12-08,Austria,Immaculate Conception
+83,2021-12-25,Austria,Christmas Day
+84,2021-12-26,Austria,St. Stephen's Day
+85,2021-01-01,Bahamas,New Year's Day
+86,2021-01-11,Bahamas,Majority Rule Day
+87,2021-04-02,Bahamas,Good Friday
+88,2021-04-02,Bahamas,Perry Christie Day
+89,2021-04-05,Bahamas,Easter Monday
+90,2021-05-24,Bahamas,Whit Monday
+91,2021-07-10,Bahamas,Independence Day
+92,2021-08-06,Bahamas,Emancipation Day
+93,2021-10-11,Bahamas,National Heroes' Day
+94,2021-12-25,Bahamas,Christmas Day
+95,2021-12-26,Bahamas,St. Stephen's Day
+96,2021-01-01,Barbados,New Year's Day
+97,2021-01-21,Barbados,Errol Barrow Day
+98,2021-04-02,Barbados,Good Friday
+99,2021-04-05,Barbados,Easter Monday
+100,2021-04-28,Barbados,National Heroes' Day
+101,2021-05-01,Barbados,Labour Day
+102,2021-05-24,Barbados,Whit Monday
+103,2021-08-01,Barbados,Emancipation Day
+104,2021-08-02,Barbados,Kadooment Day
+105,2021-11-30,Barbados,Independence Day
+106,2021-12-25,Barbados,Christmas Day
+107,2021-12-26,Barbados,Boxing Day
+108,2021-01-01,Belarus,New Year's Day
+109,2021-01-07,Belarus,Orthodox Christmas Day
+110,2021-03-08,Belarus,International Women's Day
+111,2021-05-01,Belarus,Labour Day
+112,2021-05-09,Belarus,Victory Day
+113,2021-05-11,Belarus,Commemoration Day
+114,2021-07-03,Belarus,Independence Day
+115,2021-11-07,Belarus,October Revolution Day
+116,2021-12-25,Belarus,Catholic Christmas Day
+117,2021-01-01,Belgium,New Year's Day
+118,2021-04-04,Belgium,Easter Sunday
+119,2021-04-05,Belgium,Easter Monday
+120,2021-05-01,Belgium,Labour Day
+121,2021-05-13,Belgium,Ascension Day
+122,2021-05-24,Belgium,Whit Monday
+123,2021-07-21,Belgium,Belgian National Day
+124,2021-08-15,Belgium,Assumption Day
+125,2021-11-01,Belgium,All Saints' Day
+126,2021-11-11,Belgium,Armistice Day
+127,2021-12-25,Belgium,Christmas Day
+128,2021-01-01,Belize,New Year's Day
+129,2021-03-08,Belize,Baron Bliss Day
+130,2021-04-02,Belize,Good Friday
+131,2021-04-03,Belize,Holy Saturday
+132,2021-04-04,Belize,Easter Sunday
+133,2021-04-05,Belize,Easter Monday
+134,2021-05-03,Belize,Labour Day
+135,2021-05-24,Belize,Commonwealth Day
+136,2021-09-10,Belize,Saint George's Caye Day
+137,2021-09-21,Belize,Independence Day
+138,2021-10-11,Belize,Day of the Americas
+139,2021-11-19,Belize,Garifuna Settlement Day
+140,2021-12-26,Belize,Boxing Day
+141,2021-12-27,Belize,Christmas Day
+142,2021-01-01,Benin,New Year's Day
+143,2021-01-10,Benin,Traditional Day
+144,2021-04-04,Benin,Easter Sunday
+145,2021-04-05,Benin,Easter Monday
+146,2021-05-01,Benin,Labour Day
+147,2021-05-13,Benin,Ascension Day
+148,2021-05-24,Benin,Whit Monday
+149,2021-08-01,Benin,Independence Day
+150,2021-08-15,Benin,Assumption Day
+151,2021-10-26,Benin,Armed Forces Day
+152,2021-11-01,Benin,All Saints' Day
+153,2021-11-30,Benin,National Day
+154,2021-12-25,Benin,Christmas Day
+155,2021-12-26,Benin,St. Stephen's Day
+156,2021-01-01,Bolivia,New Year's Day
+157,2021-02-02,Bolivia,Feast of the Virgin of Candelaria
+158,2021-02-15,Bolivia,Carnival
+159,2021-02-16,Bolivia,Carnival
+160,2021-04-02,Bolivia,Good Friday
+161,2021-05-01,Bolivia,Labour Day
+162,2021-06-03,Bolivia,Corpus Christi
+163,2021-06-21,Bolivia,Andean New Year
+164,2021-08-02,Bolivia,Agrarian Reform Day
+165,2021-08-06,Bolivia,Independence Day
+166,2021-11-02,Bolivia,All Saints' Day
+167,2021-12-25,Bolivia,Christmas Day
+168,2021-01-01,Botswana,New Year's Day
+169,2021-04-02,Botswana,Good Friday
+170,2021-04-05,Botswana,Easter Monday
+171,2021-05-01,Botswana,Labour Day
+172,2021-05-13,Botswana,Ascension Day
+173,2021-07-01,Botswana,Sir Seretse Khama Day
+174,2021-07-19,Botswana,Presidents' Day
+175,2021-09-30,Botswana,Independence Day
+176,2021-10-01,Botswana,Botswana Day holiday
+177,2021-12-25,Botswana,Christmas Day
+178,2021-12-26,Botswana,St. Stephen's Day
+179,2021-01-01,Chile,New Year's Day
+180,2021-04-02,Chile,Good Friday
+181,2021-04-03,Chile,Holy Saturday
+182,2021-05-01,Chile,Labour Day
+183,2021-05-21,Chile,Navy Day
+184,2021-06-07,Chile,Battle of Arica
+185,2021-06-26,Chile,Saint Peter and Saint Paul
+186,2021-07-16,Chile,Our Lady of Mount Carmel
+187,2021-08-10,Chile,Saint Lawrence
+188,2021-08-10,Chile,National Miner's Day
+189,2021-08-15,Chile,Assumption of Mary
+190,2021-09-18,Chile,National holiday
+191,2021-09-19,Chile,Army Day
+192,2021-09-20,Chile,Fiesta de La Pampilla
+193,2021-09-21,Chile,National Possession of the Strait of Magellan
+194,2021-10-02,Chile,Los Ríos Region Anniversary
+195,2021-10-09,Chile,Columbus Day
+196,2021-10-27,Chile,Reformation Day
+197,2021-11-01,Chile,All Saints
+198,2021-11-19,Chile,"Presidential, parliamentary and regional elections"
+199,2021-12-08,Chile,Immaculate Conception
+200,2021-12-25,Chile,Christmas Day
+201,2021-01-01,Clipperton Island,New Year's Day
+202,2021-01-06,Clipperton Island,Epiphany
+203,2021-02-15,Clipperton Island,Carnival
+204,2021-02-16,Clipperton Island,Carnival
+205,2021-03-19,Clipperton Island,Saint Joseph's Day
+206,2021-04-01,Clipperton Island,Maundy Thursday
+207,2021-04-02,Clipperton Island,Good Friday
+208,2021-05-01,Clipperton Island,Labour Day
+209,2021-05-13,Clipperton Island,Ascension Day
+210,2021-06-03,Clipperton Island,Corpus Christi
+211,2021-06-11,Clipperton Island,Sacred Heart
+212,2021-06-29,Clipperton Island,Saint Peter and Saint Paul
+213,2021-07-20,Clipperton Island,Declaration of Independence
+214,2021-08-07,Clipperton Island,Battle of Boyacá
+215,2021-08-15,Clipperton Island,Assumption of Mary
+216,2021-10-12,Clipperton Island,Columbus Day
+217,2021-11-01,Clipperton Island,All Saints’ Day
+218,2021-11-11,Clipperton Island,Independence of Cartagena
+219,2021-12-08,Clipperton Island,Immaculate Conception
+220,2021-12-25,Clipperton Island,Christmas Day
+221,2021-01-01,Croatia,New Year's Day
+222,2021-01-06,Croatia,Epiphany
+223,2021-04-04,Croatia,Easter Sunday
+224,2021-04-05,Croatia,Easter Monday
+225,2021-05-01,Croatia,International Workers' Day
+226,2021-05-30,Croatia,National Day
+227,2021-06-03,Croatia,Corpus Christi
+228,2021-06-22,Croatia,Anti-Fascist Struggle Day
+229,2021-08-05,Croatia,Victory and Homeland Thanksgiving Day and the Day of Croatian defenders
+230,2021-08-15,Croatia,Assumption Day
+231,2021-11-01,Croatia,All Saints' Day
+232,2021-11-18,Croatia,Remembrance Day
+233,2021-12-25,Croatia,Christmas Day
+234,2021-12-26,Croatia,St.Stephen's Day
+235,2021-01-01,Cyprus,New Year's Day
+236,2021-01-06,Cyprus,Epiphany
+237,2021-03-15,Cyprus,Green Monday
+238,2021-03-25,Cyprus,Greek Independence Day
+239,2021-04-01,Cyprus,Cyprus National Day
+240,2021-04-30,Cyprus,Good Friday
+241,2021-05-01,Cyprus,Labour Day
+242,2021-05-03,Cyprus,Easter Monday
+243,2021-05-04,Cyprus,Easter Tuesday
+244,2021-06-20,Cyprus,Pentecost
+245,2021-06-21,Cyprus,Whit Monday
+246,2021-08-15,Cyprus,Assumption of the Virgin Mary
+247,2021-10-01,Cyprus,Cyprus Independence Day
+248,2021-10-28,Cyprus,Ohi Day
+249,2021-12-24,Cyprus,Christmas Eve
+250,2021-12-25,Cyprus,Christmas Day
+251,2021-12-26,Cyprus,St. Stephen's Day
+252,2021-01-01,Czech Republic,New Year's Day
+253,2021-04-02,Czech Republic,Good Friday
+254,2021-04-05,Czech Republic,Easter Monday
+255,2021-05-01,Czech Republic,Labour Day
+256,2021-05-08,Czech Republic,Liberation Day
+257,2021-07-05,Czech Republic,Saints Cyril and Methodius Day
+258,2021-07-06,Czech Republic,Jan Hus Day
+259,2021-09-28,Czech Republic,St. Wenceslas Day
+260,2021-10-28,Czech Republic,Independent Czechoslovak State Day
+261,2021-11-17,Czech Republic,Struggle for Freedom and Democracy Day
+262,2021-12-24,Czech Republic,Christmas Eve
+263,2021-12-25,Czech Republic,Christmas Day
+264,2021-12-26,Czech Republic,St. Stephen's Day
+265,2021-01-01,Dominican Republic,New Year's Day
+266,2021-01-06,Dominican Republic,Day of Kings
+267,2021-01-21,Dominican Republic,Our Lady of Altagracia
+268,2021-01-26,Dominican Republic,Duarte's Birthday
+269,2021-02-27,Dominican Republic,Independence Day
+270,2021-04-02,Dominican Republic,Good Friday
+271,2021-05-01,Dominican Republic,Labour Day
+272,2021-05-28,Dominican Republic,Mother's Day
+273,2021-06-03,Dominican Republic,Corpus Christi
+274,2021-08-16,Dominican Republic,Restoration Day
+275,2021-09-24,Dominican Republic,Our Lady of Mercy
+276,2021-11-06,Dominican Republic,Constitution Day
+277,2021-12-25,Dominican Republic,Christmas Day
+278,2021-01-01,Ecuador,New Year's Day
+279,2021-02-15,Ecuador,Carnival
+280,2021-02-16,Ecuador,Carnival
+281,2021-04-02,Ecuador,Good Friday
+282,2021-05-01,Ecuador,International Workers' Day
+283,2021-05-24,Ecuador,The Battle of Pichincha
+284,2021-08-10,Ecuador,Declaration of Independence of Quito
+285,2021-10-09,Ecuador,Independence of Guayaquil
+286,2021-11-02,Ecuador,All Souls' Day
+287,2021-11-03,Ecuador,Independence of Cuenca
+288,2021-12-25,Ecuador,Christmas Day
+289,2021-01-07,Egypt,Christmas
+290,2021-01-25,Egypt,Revolution Day 2011 National Police Day
+291,2021-04-25,Egypt,Sinai Liberation Day
+292,2021-05-01,Egypt,Labour Day
+293,2021-07-23,Egypt,Revolution Day
+294,2021-10-06,Egypt,Armed Forces Day
+295,2021-01-01,Finland,New Year's Day
+296,2021-01-06,Finland,Epiphany
+297,2021-04-02,Finland,Good Friday
+298,2021-04-04,Finland,Easter Sunday
+299,2021-04-05,Finland,Easter Monday
+300,2021-05-01,Finland,May Day
+301,2021-05-13,Finland,Ascension Day
+302,2021-05-23,Finland,Pentecost
+303,2021-06-25,Finland,Midsummer Eve
+304,2021-06-26,Finland,Midsummer Day
+305,2021-11-06,Finland,All Saints' Day
+306,2021-12-06,Finland,Independence Day
+307,2021-12-24,Finland,Christmas Eve
+308,2021-12-25,Finland,Christmas Day
+309,2021-12-26,Finland,St. Stephen's Day
+310,2021-01-01,Gambia,New Year's Day
+311,2021-02-18,Gambia,Independence Day
+312,2021-04-02,Gambia,Good Friday
+313,2021-04-05,Gambia,Easter Monday
+314,2021-05-01,Gambia,Labour Day
+315,2021-05-25,Gambia,Africa Day
+316,2021-07-22,Gambia,Revolution Day
+317,2021-08-15,Gambia,Assumption Day
+318,2021-12-25,Gambia,Christmas Day
+319,2021-01-01,Gibraltar,New Year's Day
+320,2021-03-08,Gibraltar,Commonwealth Day
+321,2021-04-02,Gibraltar,Good Friday
+322,2021-04-05,Gibraltar,Easter Monday
+323,2021-04-28,Gibraltar,Workers' Memorial Day
+324,2021-05-01,Gibraltar,May Day Bank Holiday
+325,2021-05-31,Gibraltar,Spring Bank Holiday
+326,2021-06-14,Gibraltar,Queen's Birthday
+327,2021-08-30,Gibraltar,Summer Bank Holiday
+328,2021-09-10,Gibraltar,Gibraltar National Day
+329,2021-12-25,Gibraltar,Christmas Day
+330,2021-12-26,Gibraltar,St. Stephen's Day
+331,2021-01-01,Greece,New Year's Day
+332,2021-01-06,Greece,Epiphany
+333,2021-03-15,Greece,Clean Monday
+334,2021-03-25,Greece,Annunciation
+335,2021-03-25,Greece,Independence Day
+336,2021-04-30,Greece,Good Friday
+337,2021-05-01,Greece,Labour Day
+338,2021-05-02,Greece,Easter Sunday
+339,2021-05-03,Greece,Easter Monday
+340,2021-06-20,Greece,Pentecost
+341,2021-06-21,Greece,Whit Monday
+342,2021-08-15,Greece,Assumption Day
+343,2021-10-28,Greece,Ochi Day
+344,2021-12-25,Greece,Christmas Day
+345,2021-12-26,Greece,St. Stephen's Day
+346,2021-01-01,Greenland,New Year's Day
+347,2021-01-06,Greenland,Epiphany
+348,2021-04-01,Greenland,Maundy Thursday
+349,2021-04-02,Greenland,Good Friday
+350,2021-04-04,Greenland,Easter Sunday
+351,2021-04-05,Greenland,Easter Monday
+352,2021-04-30,Greenland,Store Bededag
+353,2021-05-13,Greenland,Ascension Day
+354,2021-05-24,Greenland,Whit Monday
+355,2021-06-21,Greenland,Ullortuneq
+356,2021-12-24,Greenland,Christmas Eve
+357,2021-12-25,Greenland,Christmas Day
+358,2021-12-26,Greenland,St. Stephen's Day
+359,2021-12-31,Greenland,New Year's Eve
+360,2021-01-01,Guernsey,New Year's Day
+361,2021-04-02,Guernsey,Good Friday
+362,2021-04-05,Guernsey,Easter Monday
+363,2021-05-01,Guernsey,Early May Bank Holiday
+364,2021-05-09,Guernsey,Liberation Day
+365,2021-05-31,Guernsey,Spring Bank Holiday
+366,2021-08-30,Guernsey,Summer Bank Holiday
+367,2021-12-25,Guernsey,Christmas Day
+368,2021-12-26,Guernsey,St. Stephen's Day
+369,2021-01-01,Guyana,New Year's Day
+370,2021-02-23,Guyana,Republic Day
+371,2021-04-02,Guyana,Good Friday
+372,2021-04-05,Guyana,Easter Monday
+373,2021-05-01,Guyana,Labour Day
+374,2021-05-05,Guyana,Arrival Day
+375,2021-05-26,Guyana,Independence Day
+376,2021-07-05,Guyana,Caricom Day
+377,2021-08-01,Guyana,Emancipation Day
+378,2021-12-25,Guyana,Christmas Day
+379,2021-12-26,Guyana,Boxing Day
+380,2021-01-01,Vatican City,"Solemnity of Mary, Mother of God"
+381,2021-01-06,Vatican City,Epiphany
+382,2021-02-11,Vatican City,Anniversary of the foundation of Vatican City
+383,2021-03-13,Vatican City,Anniversary of the election of Pope Francis
+384,2021-03-19,Vatican City,Saint Joseph's Day
+385,2021-04-05,Vatican City,Easter Monday
+386,2021-04-23,Vatican City,Saint George
+387,2021-05-01,Vatican City,Saint Joseph the Worker
+388,2021-06-29,Vatican City,Saints Peter and Paul
+389,2021-08-15,Vatican City,Assumption Day
+390,2021-09-08,Vatican City,Nativity of Mary
+391,2021-11-01,Vatican City,All Saints
+392,2021-12-08,Vatican City,Immaculate Conception
+393,2021-12-25,Vatican City,Christmas Day
+394,2021-12-26,Vatican City,St. Stephen's Day
+395,2021-01-01,Howland Island,New Year's Day
+396,2021-03-15,Howland Island,1848 Revolution Memorial Day
+397,2021-04-02,Howland Island,Good Friday
+398,2021-04-04,Howland Island,Easter Sunday
+399,2021-04-05,Howland Island,Easter Monday
+400,2021-05-01,Howland Island,Labour day
+401,2021-05-23,Howland Island,Pentecost
+402,2021-05-24,Howland Island,Whit Monday
+403,2021-08-20,Howland Island,State Foundation Day
+404,2021-10-23,Howland Island,1956 Revolution Memorial Day
+405,2021-11-01,Howland Island,All Saints Day
+406,2021-12-25,Howland Island,Christmas Day
+407,2021-12-26,Howland Island,St. Stephen's Day
+408,2021-01-01,Iceland,New Year's Day
+409,2021-04-01,Iceland,Maundy Thursday
+410,2021-04-02,Iceland,Good Friday
+411,2021-04-04,Iceland,Easter Sunday
+412,2021-04-05,Iceland,Easter Monday
+413,2021-04-22,Iceland,First Day of Summer
+414,2021-05-01,Iceland,May Day
+415,2021-05-13,Iceland,Ascension Day
+416,2021-05-23,Iceland,Pentecost
+417,2021-05-24,Iceland,Whit Monday
+418,2021-06-17,Iceland,Icelandic National Day
+419,2021-08-02,Iceland,Commerce Day
+420,2021-12-24,Iceland,Christmas Eve
+421,2021-12-25,Iceland,Christmas Day
+422,2021-12-26,Iceland,St. Stephen's Day
+423,2021-12-31,Iceland,New Year's Eve
+424,2021-01-01,Ireland,New Year's Day
+425,2021-03-17,Ireland,Saint Patrick's Day
+426,2021-04-02,Ireland,Good Friday
+427,2021-04-05,Ireland,Easter Monday
+428,2021-05-03,Ireland,May Day
+429,2021-06-07,Ireland,June Holiday
+430,2021-08-02,Ireland,August Holiday
+431,2021-10-25,Ireland,October Holiday
+432,2021-12-25,Ireland,Christmas Day
+433,2021-12-26,Ireland,St. Stephen's Day
+434,2021-01-01,Isle of Man,New Year's Day
+435,2021-04-02,Isle of Man,Good Friday
+436,2021-04-05,Isle of Man,Easter Monday
+437,2021-05-03,Isle of Man,Labour Day
+438,2021-05-31,Isle of Man,Spring Bank Holiday
+439,2021-06-11,Isle of Man,Senior Race Day
+440,2021-07-05,Isle of Man,Tynwald Day
+441,2021-08-30,Isle of Man,Late Summer Bank Holiday
+442,2021-12-25,Isle of Man,Christmas Day
+443,2021-12-26,Isle of Man,St. Stephen's Day
+444,2021-01-01,Italy,New Year's Day
+445,2021-01-06,Italy,Epiphany
+446,2021-04-04,Italy,Easter Sunday
+447,2021-04-05,Italy,Easter Monday
+448,2021-04-25,Italy,Liberation Day
+449,2021-05-01,Italy,International Workers Day
+450,2021-06-02,Italy,Republic Day
+451,2021-08-15,Italy,Assumption Day
+452,2021-11-01,Italy,All Saints Day
+453,2021-12-08,Italy,Immaculate Conception
+454,2021-12-25,Italy,Christmas Day
+455,2021-12-26,Italy,St. Stephen's Day
+456,2021-01-01,Jamaica,New Year's Day
+457,2021-02-17,Jamaica,Ash Wednesday
+458,2021-04-02,Jamaica,Good Friday
+459,2021-04-05,Jamaica,Easter Monday
+460,2021-05-23,Jamaica,Labour Day
+461,2021-08-01,Jamaica,Emancipation Day
+462,2021-08-06,Jamaica,Independence Day
+463,2021-10-16,Jamaica,National Heroes Day
+464,2021-12-25,Jamaica,Christmas Day
+465,2021-12-26,Jamaica,St. Stephen's Day
+466,2021-01-01,Japan,New Year's Day
+467,2021-01-11,Japan,Coming of Age Day
+468,2021-02-11,Japan,Foundation Day
+469,2021-02-23,Japan,The Emperor's Birthday
+470,2021-04-29,Japan,Shōwa Day
+471,2021-05-03,Japan,Constitution Memorial Day
+472,2021-05-04,Japan,Greenery Day
+473,2021-05-05,Japan,Children's Day
+474,2021-07-19,Japan,Marine Day
+475,2021-08-11,Japan,Mountain Day
+476,2021-09-20,Japan,Respect for the Aged Day
+477,2021-10-11,Japan,Health and Sports Day
+478,2021-11-03,Japan,Culture Day
+479,2021-11-23,Japan,Labour Thanksgiving Day
+480,2021-01-01,Lesotho,New Year's Day
+481,2021-03-11,Lesotho,Moshoeshoe Day
+482,2021-04-02,Lesotho,Good Friday
+483,2021-04-05,Lesotho,Easter Monday
+484,2021-05-01,Lesotho,Workers' Day
+485,2021-05-13,Lesotho,Ascension Day
+486,2021-05-25,Lesotho,Africa Day/ Heroes' Day
+487,2021-07-17,Lesotho,King Letsie III's Birthday
+488,2021-10-04,Lesotho,Independence Day
+489,2021-12-25,Lesotho,Christmas Day
+490,2021-12-26,Lesotho,St. Stephen's Day
+491,2021-01-01,Liechtenstein,New Year's Day
+492,2021-01-02,Liechtenstein,St. Berchtold's Day
+493,2021-01-06,Liechtenstein,Epiphany
+494,2021-02-02,Liechtenstein,Candlemas
+495,2021-03-19,Liechtenstein,Saint Joseph's Day
+496,2021-04-02,Liechtenstein,Good Friday
+497,2021-04-05,Liechtenstein,Easter Monday
+498,2021-05-01,Liechtenstein,Labour Day
+499,2021-05-24,Liechtenstein,Whit Monday
+500,2021-05-29,Liechtenstein,Ascension
+501,2021-06-03,Liechtenstein,Corpus Christi
+502,2021-08-15,Liechtenstein,National Holiday
+503,2021-09-08,Liechtenstein,Nativity of Our Lady
+504,2021-11-01,Liechtenstein,All Saints Day
+505,2021-12-08,Liechtenstein,Immaculate Conception
+506,2021-12-24,Liechtenstein,Christmas Eve
+507,2021-12-25,Liechtenstein,Christmas Day
+508,2021-12-26,Liechtenstein,St. Stephen's Day
+509,2021-12-31,Liechtenstein,New Year's Eve
+510,2021-01-01,Lithuania,New Year's Day
+511,2021-02-16,Lithuania,The Day of Restoration of the State of Lithuania
+512,2021-03-11,Lithuania,Day of Restoration of Independence of Lithuania
+513,2021-04-04,Lithuania,Easter Sunday
+514,2021-04-05,Lithuania,Easter Monday
+515,2021-05-01,Lithuania,International Working Day
+516,2021-06-24,Lithuania,St. John's Day
+517,2021-07-06,Lithuania,Statehood Day
+518,2021-08-15,Lithuania,Assumption Day
+519,2021-11-01,Lithuania,All Saints' Day
+520,2021-11-02,Lithuania,All Souls' Day
+521,2021-12-24,Lithuania,Christmas Eve
+522,2021-12-25,Lithuania,Christmas Day
+523,2021-12-26,Lithuania,St. Stephen's Day
+524,2021-01-01,Madagascar,New Year's Day
+525,2021-03-29,Madagascar,Martyrs' Day
+526,2021-04-05,Madagascar,Easter Monday
+527,2021-05-01,Madagascar,Labour Day
+528,2021-05-13,Madagascar,Ascension Day
+529,2021-05-24,Madagascar,Whit Monday
+530,2021-06-26,Madagascar,Independence Day
+531,2021-08-15,Madagascar,Assumption Day
+532,2021-11-01,Madagascar,All Saints' Day
+533,2021-12-25,Madagascar,Christmas Day
+534,2021-01-01,Member states of the United Nations,New Year's Day
+535,2021-02-01,Member states of the United Nations,Constitution Day
+536,2021-03-15,Member states of the United Nations,Benito Juárez's birthday
+537,2021-04-30,Member states of the United Nations,Labor Day
+538,2021-09-16,Member states of the United Nations,Independence Day
+539,2021-11-15,Member states of the United Nations,Revolution Day
+540,2021-12-25,Member states of the United Nations,Christmas Day
+541,2021-01-01,Morocco,New Year's Day
+542,2021-01-11,Morocco,Proclamation of Independence
+543,2021-05-01,Morocco,Labour Day
+544,2021-07-30,Morocco,Enthronement
+545,2021-08-14,Morocco,Zikra Oued Ed-Dahab
+546,2021-08-20,Morocco,Revolution of the King and the People
+547,2021-08-21,Morocco,Youth Day
+548,2021-11-06,Morocco,Green March
+549,2021-11-18,Morocco,Independence Day
+550,2021-01-01,Monaco,New Year's Day
+551,2021-01-27,Monaco,Saint Devota's Day
+552,2021-04-05,Monaco,Easter Monday
+553,2021-05-01,Monaco,May Day
+554,2021-05-13,Monaco,Ascension Day
+555,2021-05-24,Monaco,Whit Monday
+556,2021-06-03,Monaco,Corpus Christi
+557,2021-08-15,Monaco,Assumption Day
+558,2021-11-01,Monaco,All Saints Day
+559,2021-11-19,Monaco,National Day
+560,2021-12-08,Monaco,The Immaculate Conception
+561,2021-12-25,Monaco,​Christmas Day
+562,2021-01-01,Montenegro,New Year's Day
+563,2021-01-02,Montenegro,New Year's Day
+564,2021-01-06,Montenegro,Orthodox Christmas Eve
+565,2021-01-07,Montenegro,Orthodox Christmas Day
+566,2021-01-08,Montenegro,Orthodox Christmas Day
+567,2021-04-02,Montenegro,Good Friday
+568,2021-04-04,Montenegro,Easter Sunday
+569,2021-04-05,Montenegro,Easter Monday
+570,2021-04-30,Montenegro,Good Friday
+571,2021-05-01,Montenegro,Labour Day
+572,2021-05-02,Montenegro,Labour Day
+573,2021-05-03,Montenegro,Easter Monday
+574,2021-05-21,Montenegro,Independence Day
+575,2021-05-22,Montenegro,Independence Day
+576,2021-07-13,Montenegro,Statehood Day
+577,2021-07-14,Montenegro,Statehood Day
+578,2021-11-01,Montenegro,Catholic All Saints' Day
+579,2021-12-24,Montenegro,Catholic Christmas Eve
+580,2021-12-25,Montenegro,Catholic Christmas Day
+581,2021-12-26,Montenegro,Catholic St. Stephen's Day
+582,2021-01-01,Montserrat,New Year's Day
+583,2021-03-17,Montserrat,Saint Patrick's Day
+584,2021-04-02,Montserrat,Good Friday
+585,2021-04-05,Montserrat,Easter Monday
+586,2021-05-03,Montserrat,Labour Day
+587,2021-05-24,Montserrat,Whit Monday
+588,2021-06-14,Montserrat,Queen's Birthday
+589,2021-08-02,Montserrat,Emancipation Day
+590,2021-12-25,Montserrat,Christmas Day
+591,2021-12-26,Montserrat,St. Stephen's Day
+592,2021-12-31,Montserrat,Festival Day
+593,2021-01-01,Morocco,New Year's Day
+594,2021-01-11,Morocco,Proclamation of Independence
+595,2021-05-01,Morocco,Labour Day
+596,2021-07-30,Morocco,Enthronement
+597,2021-08-14,Morocco,Zikra Oued Ed-Dahab
+598,2021-08-20,Morocco,Revolution of the King and the People
+599,2021-08-21,Morocco,Youth Day
+600,2021-11-06,Morocco,Green March
+601,2021-11-18,Morocco,Independence Day
+602,2021-01-01,Mozambique,New Year's Day
+603,2021-02-03,Mozambique,Heroes's Day
+604,2021-04-07,Mozambique,Women's Day
+605,2021-05-01,Mozambique,worker's Day
+606,2021-06-25,Mozambique,Independence Day
+607,2021-09-07,Mozambique,Victory Day
+608,2021-09-25,Mozambique,Revolution Day
+609,2021-10-04,Mozambique,Day of Peace and Reconciliation
+610,2021-12-25,Mozambique,Christmas Day
+611,2021-01-01,Netherlands,New Year's Day
+612,2021-04-02,Netherlands,Good Friday
+613,2021-04-04,Netherlands,Easter Sunday
+614,2021-04-05,Netherlands,Easter Monday
+615,2021-04-27,Netherlands,King's Day
+616,2021-05-05,Netherlands,Liberation Day
+617,2021-05-13,Netherlands,Ascension Day
+618,2021-05-23,Netherlands,Pentecost
+619,2021-05-24,Netherlands,Whit Monday
+620,2021-12-25,Netherlands,Christmas Day
+621,2021-12-26,Netherlands,St. Stephen's Day
+622,2021-01-01,New Zealand,New Year's Day
+623,2021-01-04,New Zealand,Day after New Year's Day
+624,2021-02-08,New Zealand,Waitangi Day
+625,2021-04-02,New Zealand,Good Friday
+626,2021-04-05,New Zealand,Easter Monday
+627,2021-04-26,New Zealand,Anzac Day
+628,2021-06-07,New Zealand,Queen's Birthday
+629,2021-10-25,New Zealand,Labour Day
+630,2021-12-27,New Zealand,Christmas Day
+631,2021-12-28,New Zealand,Boxing Day
+632,2021-01-01,Niger,New Year's Day
+633,2021-04-05,Niger,Easter Monday
+634,2021-04-24,Niger,Concord Day
+635,2021-05-01,Niger,Labour Day
+636,2021-08-03,Niger,Nigerien Independence Day
+637,2021-12-18,Niger,Nigerien Republic Day
+638,2021-12-25,Niger,Christmas Day
+639,2021-01-01,North Macedonia,New Year's Day
+640,2021-01-07,North Macedonia,Christmas Day
+641,2021-04-30,North Macedonia,Good Friday
+642,2021-05-01,North Macedonia,Labour Day
+643,2021-05-02,North Macedonia,Easter Sunday
+644,2021-05-03,North Macedonia,Easter Monday
+645,2021-05-24,North Macedonia,Saints Cyril and Methodius Day
+646,2021-08-02,North Macedonia,Day of the Republic
+647,2021-09-08,North Macedonia,Independence Day
+648,2021-10-11,North Macedonia,Revolution Day
+649,2021-10-23,North Macedonia,Day of the Macedonian Revolutionary Struggle
+650,2021-12-08,North Macedonia,Saint Clement of Ohrid Day
+651,2021-01-01,Norway,New Year's Day
+652,2021-04-01,Norway,Maundy Thursday
+653,2021-04-02,Norway,Good Friday
+654,2021-04-04,Norway,Easter Sunday
+655,2021-04-05,Norway,Easter Monday
+656,2021-05-01,Norway,Labour Day
+657,2021-05-13,Norway,Ascension Day
+658,2021-05-17,Norway,Constitution Day
+659,2021-05-23,Norway,Pentecost
+660,2021-05-24,Norway,Whit Monday
+661,2021-12-25,Norway,Christmas Day
+662,2021-12-26,Norway,St. Stephen's Day
+663,2021-01-01,Panama,New Year's Day
+664,2021-01-09,Panama,Martyr's Day
+665,2021-02-15,Panama,Carnival
+666,2021-02-16,Panama,Carnival
+667,2021-04-02,Panama,Good Friday
+668,2021-05-01,Panama,Labour Day
+669,2021-11-03,Panama,Separation Day
+670,2021-11-04,Panama,Flag Day
+671,2021-11-05,Panama,Colon Day
+672,2021-11-10,Panama,Shout in Villa de los Santos
+673,2021-11-28,Panama,Independence Day
+674,2021-12-08,Panama,Mothers' Day
+675,2021-12-25,Panama,Christmas Day
+676,2021-01-01,Papua New Guinea,New Year's Day
+677,2021-04-02,Papua New Guinea,Good Friday
+678,2021-04-03,Papua New Guinea,Holy Saturday
+679,2021-04-04,Papua New Guinea,Easter Sunday
+680,2021-04-05,Papua New Guinea,Easter Monday
+681,2021-06-14,Papua New Guinea,Queen's Birthday
+682,2021-07-23,Papua New Guinea,Remembrance Day
+683,2021-08-26,Papua New Guinea,Repentance Day
+684,2021-09-16,Papua New Guinea,Independence Day
+685,2021-12-25,Papua New Guinea,Christmas Day
+686,2021-12-26,Papua New Guinea,St. Stephen's Day
+687,2021-01-01,Paraguay,New Year's Day
+688,2021-03-01,Paraguay,Heroes' day
+689,2021-04-01,Paraguay,Maundy Thursday
+690,2021-04-02,Paraguay,Good Friday
+691,2021-05-01,Paraguay,Labour Day
+692,2021-05-14,Paraguay,Paraguayan Independence
+693,2021-05-15,Paraguay,Paraguayan Independence
+694,2021-06-12,Paraguay,Chaco Armistice
+695,2021-08-15,Paraguay,Founding of Asunción
+696,2021-09-29,Paraguay,Boqueron Battle Victory Day
+697,2021-12-08,Paraguay,Virgin of Caacupe
+698,2021-12-25,Paraguay,Christmas Day
+699,2021-01-01,Poland,New Year's Day
+700,2021-01-06,Poland,Epiphany
+701,2021-04-04,Poland,Easter Sunday
+702,2021-04-05,Poland,Easter Monday
+703,2021-05-01,Poland,May Day
+704,2021-05-03,Poland,Constitution Day
+705,2021-05-23,Poland,Pentecost
+706,2021-06-03,Poland,Corpus Christi
+707,2021-08-15,Poland,Assumption Day
+708,2021-11-01,Poland,All Saints' Day
+709,2021-11-11,Poland,Independence Day
+710,2021-12-25,Poland,Christmas Day
+711,2021-12-26,Poland,St. Stephen's Day
+712,2021-01-01,Portugal,New Year's Day
+713,2021-02-16,Portugal,Carnival
+714,2021-04-02,Portugal,Good Friday
+715,2021-04-04,Portugal,Easter Sunday
+716,2021-04-25,Portugal,Freedom Day
+717,2021-05-01,Portugal,Labour Day
+718,2021-06-01,Portugal,Azores Day
+719,2021-06-03,Portugal,Corpus Christi
+720,2021-06-10,Portugal,National Day
+721,2021-07-01,Portugal,Madeira Day
+722,2021-08-15,Portugal,Assumption Day
+723,2021-10-05,Portugal,Republic Day
+724,2021-11-01,Portugal,All Saints Day
+725,2021-12-01,Portugal,Restoration of Independence
+726,2021-12-08,Portugal,Immaculate Conception
+727,2021-12-25,Portugal,Christmas Day
+728,2021-12-26,Portugal,St. Stephen's Day
+729,2021-01-01,Romania,New Year's Day
+730,2021-01-02,Romania,Day after New Year's Day
+731,2021-01-24,Romania,Union Day/Small Union
+732,2021-04-30,Romania,Good Friday
+733,2021-05-01,Romania,Labour Day
+734,2021-05-02,Romania,Easter Sunday
+735,2021-05-03,Romania,Easter Monday
+736,2021-06-01,Romania,Children's Day
+737,2021-06-20,Romania,Pentecost
+738,2021-06-21,Romania,Whit Monday
+739,2021-08-15,Romania,Dormition of the Theotokos
+740,2021-11-30,Romania,St. Andrew's Day
+741,2021-12-01,Romania,National Day/Great Union
+742,2021-12-25,Romania,Christmas Day
+743,2021-12-26,Romania,St. Stephen's Day
+744,2021-01-01,Russia,New Year's Day
+745,2021-01-02,Russia,New Year holiday
+746,2021-01-03,Russia,New Year holiday
+747,2021-01-04,Russia,New Year holiday
+748,2021-01-05,Russia,New Year holiday
+749,2021-01-06,Russia,New Year holiday
+750,2021-01-07,Russia,Orthodox Christmas Day
+751,2021-02-23,Russia,Defender of the Fatherland Day
+752,2021-03-08,Russia,International Women's Day
+753,2021-05-01,Russia,Labour Day
+754,2021-05-09,Russia,Victory Day
+755,2021-06-12,Russia,Russia Day
+756,2021-11-04,Russia,Unity Day
+757,2021-01-01,San Marino,New Year's Day
+758,2021-01-06,San Marino,Epiphany
+759,2021-02-05,San Marino,Feast of Saint Agatha
+760,2021-03-25,San Marino,Anniversary of the Arengo
+761,2021-04-04,San Marino,Easter Sunday
+762,2021-04-05,San Marino,Easter Monday
+763,2021-05-01,San Marino,Labour Day
+764,2021-06-03,San Marino,Corpus Christi
+765,2021-07-28,San Marino,Liberation from Fascism
+766,2021-08-15,San Marino,Ferragosto (Assumption)
+767,2021-09-03,San Marino,The Feast of San Marino and the Republic
+768,2021-11-01,San Marino,All Saints' Day
+769,2021-11-02,San Marino,Commemoration of all those who died at war
+770,2021-12-08,San Marino,Immaculate Conception
+771,2021-12-24,San Marino,Christmas Eve
+772,2021-12-25,San Marino,Christmas Day
+773,2021-12-26,San Marino,Saint Stephen's Day
+774,2021-12-31,San Marino,New Year's Eve
+775,2021-01-01,Serbia,New Year's Day
+776,2021-01-02,Serbia,New Year's Day
+777,2021-01-07,Serbia,Christmas Day
+778,2021-02-15,Serbia,Statehood Day
+779,2021-02-16,Serbia,Statehood Day
+780,2021-04-30,Serbia,Good Friday
+781,2021-05-01,Serbia,May Day / International Workers' Day
+782,2021-05-02,Serbia,Easter Sunday
+783,2021-05-02,Serbia,May Day / International Workers' Day
+784,2021-05-03,Serbia,Easter Monday
+785,2021-11-11,Serbia,Armistice Day
+786,2021-01-01,Slovakia,Day of the Establishment of the Slovak Republic
+787,2021-01-06,Slovakia,Epiphany
+788,2021-04-02,Slovakia,Good Friday
+789,2021-04-05,Slovakia,Easter Monday
+790,2021-05-01,Slovakia,International Workers' Day
+791,2021-05-08,Slovakia,Day of victory over fascism
+792,2021-07-05,Slovakia,St. Cyril and Methodius Day
+793,2021-08-29,Slovakia,Slovak National Uprising anniversary
+794,2021-09-01,Slovakia,Day of the Constitution of the Slovak Republic
+795,2021-09-15,Slovakia,Day of Our Lady of the Seven Sorrows
+796,2021-11-01,Slovakia,All Saints’ Day
+797,2021-11-17,Slovakia,Struggle for Freedom and Democracy Day
+798,2021-12-24,Slovakia,Christmas Eve
+799,2021-12-25,Slovakia,Christmas Day
+800,2021-12-26,Slovakia,St. Stephen's Day
+801,2021-01-01,Slovenia,New Year's Day
+802,2021-01-02,Slovenia,New Year's Day
+803,2021-02-08,Slovenia,Prešeren Day
+804,2021-04-04,Slovenia,Easter Sunday
+805,2021-04-05,Slovenia,Easter Monday
+806,2021-04-27,Slovenia,Day of Uprising Against Occupation
+807,2021-05-01,Slovenia,May Day Holiday
+808,2021-05-02,Slovenia,May Day Holiday
+809,2021-05-23,Slovenia,Pentecost
+810,2021-06-25,Slovenia,Statehood Day
+811,2021-08-15,Slovenia,Assumption Day
+812,2021-10-31,Slovenia,Reformation Day
+813,2021-11-01,Slovenia,Day of the Dead
+814,2021-12-25,Slovenia,Christmas Day
+815,2021-12-26,Slovenia,Independence and Unity Day
+816,2021-01-01,South Africa,New Year's Day
+817,2021-03-21,South Africa,Human Rights Day
+818,2021-04-02,South Africa,Good Friday
+819,2021-04-05,South Africa,Family Day
+820,2021-04-27,South Africa,Freedom Day
+821,2021-05-01,South Africa,Workers' Day
+822,2021-06-16,South Africa,Youth Day
+823,2021-08-09,South Africa,National Women's Day
+824,2021-09-24,South Africa,Heritage Day
+825,2021-12-16,South Africa,Day of Reconciliation
+826,2021-12-25,South Africa,Christmas Day
+827,2021-12-26,South Africa,St. Stephen's Day
+828,2021-01-01,South Korea,New Year's Day
+829,2021-02-11,South Korea,Lunar New Year
+830,2021-02-12,South Korea,Lunar New Year
+831,2021-02-13,South Korea,Lunar New Year
+832,2021-03-01,South Korea,Independence Movement Day
+833,2021-05-05,South Korea,Children's Day
+834,2021-05-19,South Korea,Buddha's Birthday
+835,2021-06-06,South Korea,Memorial Day
+836,2021-08-15,South Korea,Liberation Day
+837,2021-09-20,South Korea,Chuseok
+838,2021-09-21,South Korea,Chuseok
+839,2021-09-22,South Korea,Chuseok
+840,2021-10-03,South Korea,National Foundation Day
+841,2021-10-09,South Korea,Hangul Day
+842,2021-12-25,South Korea,Christmas Day
+843,2021-01-01,Suriname,New Year's Day
+844,2021-01-06,Suriname,Three Kings Day
+845,2021-01-17,Suriname,World Religion Day
+846,2021-02-12,Suriname,Chinese New Year
+847,2021-02-25,Suriname,Day of the Revolution
+848,2021-04-02,Suriname,Good Friday
+849,2021-04-04,Suriname,Easter Sunday
+850,2021-05-01,Suriname,Labour Day
+851,2021-05-13,Suriname,Ascension Day
+852,2021-06-05,Suriname,Indian Arrival Day
+853,2021-07-01,Suriname,Keti Koti
+854,2021-08-08,Suriname,Javanese Arrival Day
+855,2021-08-09,Suriname,Indigenous People's Day
+856,2021-10-10,Suriname,Day of the Maroons
+857,2021-10-20,Suriname,Chinese Arrival day
+858,2021-11-25,Suriname,Independence Day
+859,2021-12-25,Suriname,Christmas Day
+860,2021-12-26,Suriname,Boxing Day
+861,2021-01-01,Svalbard and Jan Mayen,New Year's Day
+862,2021-04-01,Svalbard and Jan Mayen,Maundy Thursday
+863,2021-04-02,Svalbard and Jan Mayen,Good Friday
+864,2021-04-04,Svalbard and Jan Mayen,Easter Sunday
+865,2021-04-05,Svalbard and Jan Mayen,Easter Monday
+866,2021-05-01,Svalbard and Jan Mayen,May Day
+867,2021-05-13,Svalbard and Jan Mayen,Ascension Day
+868,2021-05-17,Svalbard and Jan Mayen,Constitution Day
+869,2021-05-23,Svalbard and Jan Mayen,Pentecost
+870,2021-05-24,Svalbard and Jan Mayen,Whit Monday
+871,2021-12-25,Svalbard and Jan Mayen,Christmas Day
+872,2021-12-26,Svalbard and Jan Mayen,Second day of Christmas
+873,2021-01-01,Ukraine,New Year's Day
+874,2021-01-07,Ukraine,(Julian) Christmas
+875,2021-03-08,Ukraine,International Women's Day
+876,2021-05-01,Ukraine,International Workers' Day
+877,2021-05-02,Ukraine,Easter Sunday
+878,2021-05-09,Ukraine,Victory day over Nazism in World War II
+879,2021-06-20,Ukraine,Pentecost
+880,2021-06-28,Ukraine,Constitution Day
+881,2021-08-24,Ukraine,Independence Day
+882,2021-10-14,Ukraine,Defender of Ukraine Day
+883,2021-12-25,Ukraine,(Gregorian and Revised Julian) Christmas
+884,2021-01-01,United Kingdom,New Year's Day
+885,2021-01-04,United Kingdom,New Year's Day
+886,2021-03-17,United Kingdom,Saint Patrick's Day
+887,2021-04-02,United Kingdom,Good Friday
+888,2021-04-05,United Kingdom,Easter Monday
+889,2021-05-03,United Kingdom,Early May Bank Holiday
+890,2021-05-31,United Kingdom,Spring Bank Holiday
+891,2021-07-12,United Kingdom,Battle of the Boyne
+892,2021-08-02,United Kingdom,Summer Bank Holiday
+893,2021-08-30,United Kingdom,Summer Bank Holiday
+894,2021-11-30,United Kingdom,Saint Andrew's Day
+895,2021-12-27,United Kingdom,Christmas Day
+896,2021-12-28,United Kingdom,St. Stephen's Day
+897,2021-01-01,Uruguay,New Year's Day
+898,2021-01-06,Uruguay,Children's Day
+899,2021-02-15,Uruguay,Carnival
+900,2021-02-16,Uruguay,Carnival
+901,2021-04-01,Uruguay,Maundy Thursday
+902,2021-04-02,Uruguay,Good Friday
+903,2021-04-19,Uruguay,Landing of the 33 Patriots Day
+904,2021-05-01,Uruguay,International Workers' Day
+905,2021-05-18,Uruguay,Battle of Las Piedras
+906,2021-06-19,Uruguay,Birthday of José Gervasio Artigas and Never Again Day
+907,2021-07-18,Uruguay,Constitution Day
+908,2021-08-25,Uruguay,Independence Day
+909,2021-10-12,Uruguay,Day of the race
+910,2021-11-02,Uruguay,Deceased ones day
+911,2021-12-25,Uruguay,Christmas Day
+912,2021-01-01,Vatican City,"Solemnity of Mary, Mother of God"
+913,2021-01-06,Vatican City,Epiphany
+914,2021-02-11,Vatican City,Anniversary of the foundation of Vatican City
+915,2021-03-13,Vatican City,Anniversary of the election of Pope Francis
+916,2021-03-19,Vatican City,Saint Joseph's Day
+917,2021-04-05,Vatican City,Easter Monday
+918,2021-04-23,Vatican City,Saint George
+919,2021-05-01,Vatican City,Saint Joseph the Worker
+920,2021-06-29,Vatican City,Saints Peter and Paul
+921,2021-08-15,Vatican City,Assumption Day
+922,2021-09-08,Vatican City,Nativity of Mary
+923,2021-11-01,Vatican City,All Saints
+924,2021-12-08,Vatican City,Immaculate Conception
+925,2021-12-25,Vatican City,Christmas Day
+926,2021-12-26,Vatican City,St. Stephen's Day
+927,2021-01-01,Venezuela,New Year's Day
+928,2021-01-06,Venezuela,Epiphany
+929,2021-01-14,Venezuela,Feast of the Divina Pastora
+930,2021-01-15,Venezuela,Teacher's Day
+931,2021-02-12,Venezuela,Youth Day
+932,2021-02-15,Venezuela,Carnival
+933,2021-02-16,Venezuela,Carnival
+934,2021-02-20,Venezuela,Federation Day
+935,2021-03-08,Venezuela,International Women's Day
+936,2021-03-19,Venezuela,St Joseph's Day
+937,2021-03-21,Venezuela,Slavery Abolition Anniversary
+938,2021-03-31,Venezuela,"Foundation anniversary Day of San Cristóbal, Táchira"
+939,2021-04-19,Venezuela,Beginning of the Independence Movement
+940,2021-05-01,Venezuela,Labor Day
+941,2021-05-03,Venezuela,Fiesta de las Cruces
+942,2021-05-09,Venezuela,Mother's Day
+943,2021-06-20,Venezuela,Father's Day
+944,2021-06-24,Venezuela,Army Day
+945,2021-06-27,Venezuela,Journalists' Day
+946,2021-07-05,Venezuela,Independence Day
+947,2021-07-18,Venezuela,Children's Day
+948,2021-07-24,Venezuela,Navy Day
+949,2021-07-25,Venezuela,Caracas City Foundation Day
+950,2021-08-03,Venezuela,Flag Day
+951,2021-09-08,Venezuela,Birth of the Blessed Virgin Mary and feasts of the Virgen del Valle and Our Lady of Coromoto
+952,2021-09-24,Venezuela,Feast of the Our Lady of Mercy
+953,2021-10-12,Venezuela,Day of Indigenous Resistance
+954,2021-11-01,Venezuela,All Saints' Day
+955,2021-11-02,Venezuela,All Souls' Day
+956,2021-11-17,Venezuela,Feria of La Chinita
+957,2021-11-18,Venezuela,Feria of La Chinita
+958,2021-11-19,Venezuela,Feria of La Chinita
+959,2021-11-21,Venezuela,University Students Day
+960,2021-12-08,Venezuela,"Immaculate Conception, Loyalty Day"
+961,2021-12-17,Venezuela,Simon Bolivar Memorial Day
+962,2021-12-24,Venezuela,Christmas Eve
+963,2021-12-25,Venezuela,Christmas Day
+964,2021-12-31,Venezuela,New Year's Eve
+965,2021-01-01,Vietnam,New Year's Day
+966,2021-04-30,Vietnam,Reunification Day
+967,2021-05-01,Vietnam,Labour Day
+968,2021-09-02,Vietnam,National Day
